@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --heading-color: #000a19;
+    --para-color: #504e4d;
+    --btn-hover-bg-color: #003b99;
+    --bg-color: #ffffff;
+  }
